@@ -1,0 +1,639 @@
+{
+  "ca02": [
+    {
+      "NB_mots": 2277,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 16,
+      "Taille_moy_mots": 4.505489679402723,
+      "NB_phrs": 98,
+      "Taille_min_phrs": 3,
+      "Taille_max_phrs": 53,
+      "Taille_moy_phrs": 23.23469387755102
+    },
+    "news"
+  ],
+  "ca06": [
+    {
+      "NB_mots": 2263,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 21,
+      "Taille_moy_mots": 4.475033141847105,
+      "NB_phrs": 99,
+      "Taille_min_phrs": 1,
+      "Taille_max_phrs": 73,
+      "Taille_moy_phrs": 22.858585858585858
+    },
+    "news"
+  ],
+  "ca08": [
+    {
+      "NB_mots": 2187,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 16,
+      "Taille_moy_mots": 4.588934613625971,
+      "NB_phrs": 101,
+      "Taille_min_phrs": 1,
+      "Taille_max_phrs": 49,
+      "Taille_moy_phrs": 21.653465346534652
+    },
+    "news"
+  ],
+  "ca10": [
+    {
+      "NB_mots": 2282,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 17,
+      "Taille_moy_mots": 4.38737949167397,
+      "NB_phrs": 106,
+      "Taille_min_phrs": 2,
+      "Taille_max_phrs": 62,
+      "Taille_moy_phrs": 21.528301886792452
+    },
+    "news"
+  ],
+  "ca15": [
+    {
+      "NB_mots": 2314,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 14,
+      "Taille_moy_mots": 4.097666378565255,
+      "NB_phrs": 110,
+      "Taille_min_phrs": 1,
+      "Taille_max_phrs": 48,
+      "Taille_moy_phrs": 21.036363636363635
+    },
+    "news"
+  ],
+  "ca27": [
+    {
+      "NB_mots": 2288,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 22,
+      "Taille_moy_mots": 4.487325174825175,
+      "NB_phrs": 115,
+      "Taille_min_phrs": 1,
+      "Taille_max_phrs": 57,
+      "Taille_moy_phrs": 19.895652173913042
+    },
+    "news"
+  ],
+  "ca38": [
+    {
+      "NB_mots": 2221,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 14,
+      "Taille_moy_mots": 4.114362899594777,
+      "NB_phrs": 95,
+      "Taille_min_phrs": 1,
+      "Taille_max_phrs": 68,
+      "Taille_moy_phrs": 23.378947368421052
+    },
+    "news"
+  ],
+  "cb08": [
+    {
+      "NB_mots": 2395,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 14,
+      "Taille_moy_mots": 3.7352818371607515,
+      "NB_phrs": 128,
+      "Taille_min_phrs": 1,
+      "Taille_max_phrs": 62,
+      "Taille_moy_phrs": 18.7109375
+    },
+    "news"
+  ],
+  "cb16": [
+    {
+      "NB_mots": 2260,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 15,
+      "Taille_moy_mots": 4.438495575221239,
+      "NB_phrs": 120,
+      "Taille_min_phrs": 2,
+      "Taille_max_phrs": 74,
+      "Taille_moy_phrs": 18.833333333333332
+    },
+    "news"
+  ],
+  "cb17": [
+    {
+      "NB_mots": 2288,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 18,
+      "Taille_moy_mots": 4.201486013986014,
+      "NB_phrs": 126,
+      "Taille_min_phrs": 1,
+      "Taille_max_phrs": 65,
+      "Taille_moy_phrs": 18.158730158730158
+    },
+    "news"
+  ],
+  "cb18": [
+    {
+      "NB_mots": 2194,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 21,
+      "Taille_moy_mots": 4.481312670920693,
+      "NB_phrs": 115,
+      "Taille_min_phrs": 2,
+      "Taille_max_phrs": 72,
+      "Taille_moy_phrs": 19.078260869565216
+    },
+    "news"
+  ],
+  "cb22": [
+    {
+      "NB_mots": 2294,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 22,
+      "Taille_moy_mots": 4.655187445510026,
+      "NB_phrs": 94,
+      "Taille_min_phrs": 2,
+      "Taille_max_phrs": 62,
+      "Taille_moy_phrs": 24.404255319148938
+    },
+    "news"
+  ],
+  "cb23": [
+    {
+      "NB_mots": 2357,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 25,
+      "Taille_moy_mots": 4.229529062367416,
+      "NB_phrs": 133,
+      "Taille_min_phrs": 1,
+      "Taille_max_phrs": 56,
+      "Taille_moy_phrs": 17.721804511278197
+    },
+    "news"
+  ],
+  "cb24": [
+    {
+      "NB_mots": 2346,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 15,
+      "Taille_moy_mots": 4.2745098039215685,
+      "NB_phrs": 109,
+      "Taille_min_phrs": 1,
+      "Taille_max_phrs": 64,
+      "Taille_moy_phrs": 21.522935779816514
+    },
+    "news"
+  ],
+  "cc02": [
+    {
+      "NB_mots": 2320,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 17,
+      "Taille_moy_mots": 4.499568965517241,
+      "NB_phrs": 99,
+      "Taille_min_phrs": 1,
+      "Taille_max_phrs": 50,
+      "Taille_moy_phrs": 23.434343434343436
+    },
+    "news"
+  ],
+  "cc03": [
+    {
+      "NB_mots": 2356,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 20,
+      "Taille_moy_mots": 4.42062818336163,
+      "NB_phrs": 114,
+      "Taille_min_phrs": 4,
+      "Taille_max_phrs": 58,
+      "Taille_moy_phrs": 20.666666666666668
+    },
+    "news"
+  ],
+  "cc15": [
+    {
+      "NB_mots": 2503,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 18,
+      "Taille_moy_mots": 4.359568517778666,
+      "NB_phrs": 127,
+      "Taille_min_phrs": 1,
+      "Taille_max_phrs": 75,
+      "Taille_moy_phrs": 19.708661417322833
+    },
+    "news"
+  ],
+  "cj02": [
+    {
+      "NB_mots": 2182,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 14,
+      "Taille_moy_mots": 4.550870760769936,
+      "NB_phrs": 111,
+      "Taille_min_phrs": 1,
+      "Taille_max_phrs": 45,
+      "Taille_moy_phrs": 19.65765765765766
+    },
+    "science"
+  ],
+  "cj03": [
+    {
+      "NB_mots": 2205,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 17,
+      "Taille_moy_mots": 4.383673469387755,
+      "NB_phrs": 84,
+      "Taille_min_phrs": 7,
+      "Taille_max_phrs": 71,
+      "Taille_moy_phrs": 26.25
+    },
+    "science"
+  ],
+  "cj04": [
+    {
+      "NB_mots": 2334,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 19,
+      "Taille_moy_mots": 4.60025706940874,
+      "NB_phrs": 113,
+      "Taille_min_phrs": 1,
+      "Taille_max_phrs": 71,
+      "Taille_moy_phrs": 20.654867256637168
+    },
+    "science"
+  ],
+  "cj08": [
+    {
+      "NB_mots": 2206,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 18,
+      "Taille_moy_mots": 4.839528558476881,
+      "NB_phrs": 113,
+      "Taille_min_phrs": 1,
+      "Taille_max_phrs": 49,
+      "Taille_moy_phrs": 19.52212389380531
+    },
+    "science"
+  ],
+  "cj10": [
+    {
+      "NB_mots": 2262,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 17,
+      "Taille_moy_mots": 4.107427055702917,
+      "NB_phrs": 97,
+      "Taille_min_phrs": 5,
+      "Taille_max_phrs": 53,
+      "Taille_moy_phrs": 23.31958762886598
+    },
+    "science"
+  ],
+  "cj16": [
+    {
+      "NB_mots": 2258,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 22,
+      "Taille_moy_mots": 4.754650132860939,
+      "NB_phrs": 93,
+      "Taille_min_phrs": 1,
+      "Taille_max_phrs": 76,
+      "Taille_moy_phrs": 24.27956989247312
+    },
+    "science"
+  ],
+  "cj20": [
+    {
+      "NB_mots": 2211,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 14,
+      "Taille_moy_mots": 3.966078697421981,
+      "NB_phrs": 108,
+      "Taille_min_phrs": 1,
+      "Taille_max_phrs": 66,
+      "Taille_moy_phrs": 20.47222222222222
+    },
+    "science"
+  ],
+  "cj29": [
+    {
+      "NB_mots": 2230,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 20,
+      "Taille_moy_mots": 5.032286995515695,
+      "NB_phrs": 96,
+      "Taille_min_phrs": 1,
+      "Taille_max_phrs": 57,
+      "Taille_moy_phrs": 23.229166666666668
+    },
+    "science"
+  ],
+  "cj32": [
+    {
+      "NB_mots": 2170,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 19,
+      "Taille_moy_mots": 4.476958525345622,
+      "NB_phrs": 99,
+      "Taille_min_phrs": 1,
+      "Taille_max_phrs": 52,
+      "Taille_moy_phrs": 21.91919191919192
+    },
+    "science"
+  ],
+  "cj33": [
+    {
+      "NB_mots": 2241,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 15,
+      "Taille_moy_mots": 4.286925479696564,
+      "NB_phrs": 97,
+      "Taille_min_phrs": 2,
+      "Taille_max_phrs": 90,
+      "Taille_moy_phrs": 23.103092783505154
+    },
+    "science"
+  ],
+  "cj36": [
+    {
+      "NB_mots": 2262,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 21,
+      "Taille_moy_mots": 4.485411140583555,
+      "NB_phrs": 82,
+      "Taille_min_phrs": 1,
+      "Taille_max_phrs": 76,
+      "Taille_moy_phrs": 27.585365853658537
+    },
+    "science"
+  ],
+  "cj42": [
+    {
+      "NB_mots": 2304,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 18,
+      "Taille_moy_mots": 4.753038194444445,
+      "NB_phrs": 91,
+      "Taille_min_phrs": 5,
+      "Taille_max_phrs": 73,
+      "Taille_moy_phrs": 25.318681318681318
+    },
+    "science"
+  ],
+  "cj43": [
+    {
+      "NB_mots": 2250,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 16,
+      "Taille_moy_mots": 4.762222222222222,
+      "NB_phrs": 95,
+      "Taille_min_phrs": 3,
+      "Taille_max_phrs": 65,
+      "Taille_moy_phrs": 23.68421052631579
+    },
+    "science"
+  ],
+  "cj46": [
+    {
+      "NB_mots": 2266,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 16,
+      "Taille_moy_mots": 4.535304501323918,
+      "NB_phrs": 90,
+      "Taille_min_phrs": 2,
+      "Taille_max_phrs": 68,
+      "Taille_moy_phrs": 25.177777777777777
+    },
+    "science"
+  ],
+  "cj52": [
+    {
+      "NB_mots": 2255,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 13,
+      "Taille_moy_mots": 3.9445676274944566,
+      "NB_phrs": 96,
+      "Taille_min_phrs": 3,
+      "Taille_max_phrs": 102,
+      "Taille_moy_phrs": 23.489583333333332
+    },
+    "science"
+  ],
+  "ck20": [
+    {
+      "NB_mots": 2378,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 18,
+      "Taille_moy_mots": 3.968040370058873,
+      "NB_phrs": 138,
+      "Taille_min_phrs": 2,
+      "Taille_max_phrs": 47,
+      "Taille_moy_phrs": 17.231884057971016
+    },
+    "literature"
+  ],
+  "ck23": [
+    {
+      "NB_mots": 2319,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 16,
+      "Taille_moy_mots": 4.076326002587322,
+      "NB_phrs": 110,
+      "Taille_min_phrs": 3,
+      "Taille_max_phrs": 52,
+      "Taille_moy_phrs": 21.081818181818182
+    },
+    "literature"
+  ],
+  "ck24": [
+    {
+      "NB_mots": 2419,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 15,
+      "Taille_moy_mots": 3.372467961967755,
+      "NB_phrs": 220,
+      "Taille_min_phrs": 2,
+      "Taille_max_phrs": 63,
+      "Taille_moy_phrs": 10.995454545454546
+    },
+    "literature"
+  ],
+  "ck29": [
+    {
+      "NB_mots": 2264,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 17,
+      "Taille_moy_mots": 4.069787985865724,
+      "NB_phrs": 85,
+      "Taille_min_phrs": 4,
+      "Taille_max_phrs": 76,
+      "Taille_moy_phrs": 26.63529411764706
+    },
+    "literature"
+  ],
+  "cl03": [
+    {
+      "NB_mots": 2428,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 12,
+      "Taille_moy_mots": 3.637149917627677,
+      "NB_phrs": 189,
+      "Taille_min_phrs": 2,
+      "Taille_max_phrs": 103,
+      "Taille_moy_phrs": 12.846560846560847
+    },
+    "literature"
+  ],
+  "cl15": [
+    {
+      "NB_mots": 2358,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 19,
+      "Taille_moy_mots": 4.092027141645462,
+      "NB_phrs": 153,
+      "Taille_min_phrs": 1,
+      "Taille_max_phrs": 79,
+      "Taille_moy_phrs": 15.411764705882353
+    },
+    "literature"
+  ],
+  "cm01": [
+    {
+      "NB_mots": 2486,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 16,
+      "Taille_moy_mots": 3.8720836685438456,
+      "NB_phrs": 174,
+      "Taille_min_phrs": 2,
+      "Taille_max_phrs": 86,
+      "Taille_moy_phrs": 14.28735632183908
+    },
+    "literature"
+  ],
+  "cm03": [
+    {
+      "NB_mots": 2364,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 17,
+      "Taille_moy_mots": 3.9285109983079525,
+      "NB_phrs": 144,
+      "Taille_min_phrs": 1,
+      "Taille_max_phrs": 48,
+      "Taille_moy_phrs": 16.416666666666668
+    },
+    "literature"
+  ],
+  "cp04": [
+    {
+      "NB_mots": 2546,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 22,
+      "Taille_moy_mots": 3.9371563236449334,
+      "NB_phrs": 133,
+      "Taille_min_phrs": 3,
+      "Taille_max_phrs": 69,
+      "Taille_moy_phrs": 19.142857142857142
+    },
+    "literature"
+  ],
+  "cp08": [
+    {
+      "NB_mots": 2317,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 17,
+      "Taille_moy_mots": 3.7362969356927063,
+      "NB_phrs": 175,
+      "Taille_min_phrs": 3,
+      "Taille_max_phrs": 39,
+      "Taille_moy_phrs": 13.24
+    },
+    "literature"
+  ],
+  "cp11": [
+    {
+      "NB_mots": 2346,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 16,
+      "Taille_moy_mots": 3.7259164535379368,
+      "NB_phrs": 119,
+      "Taille_min_phrs": 3,
+      "Taille_max_phrs": 68,
+      "Taille_moy_phrs": 19.714285714285715
+    },
+    "literature"
+  ],
+  "cp13": [
+    {
+      "NB_mots": 2338,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 15,
+      "Taille_moy_mots": 3.8982035928143715,
+      "NB_phrs": 112,
+      "Taille_min_phrs": 2,
+      "Taille_max_phrs": 86,
+      "Taille_moy_phrs": 20.875
+    },
+    "literature"
+  ],
+  "cp16": [
+    {
+      "NB_mots": 2525,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 16,
+      "Taille_moy_mots": 3.64990099009901,
+      "NB_phrs": 207,
+      "Taille_min_phrs": 1,
+      "Taille_max_phrs": 52,
+      "Taille_moy_phrs": 12.198067632850242
+    },
+    "literature"
+  ],
+  "cp20": [
+    {
+      "NB_mots": 2428,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 29,
+      "Taille_moy_mots": 3.504118616144975,
+      "NB_phrs": 182,
+      "Taille_min_phrs": 1,
+      "Taille_max_phrs": 38,
+      "Taille_moy_phrs": 13.340659340659341
+    },
+    "literature"
+  ],
+  "cp22": [
+    {
+      "NB_mots": 2441,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 15,
+      "Taille_moy_mots": 3.63088897992626,
+      "NB_phrs": 176,
+      "Taille_min_phrs": 3,
+      "Taille_max_phrs": 56,
+      "Taille_moy_phrs": 13.869318181818182
+    },
+    "literature"
+  ],
+  "cp23": [
+    {
+      "NB_mots": 2546,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 16,
+      "Taille_moy_mots": 3.7812254516889237,
+      "NB_phrs": 172,
+      "Taille_min_phrs": 3,
+      "Taille_max_phrs": 54,
+      "Taille_moy_phrs": 14.80232558139535
+    },
+    "literature"
+  ],
+  "cp24": [
+    {
+      "NB_mots": 2524,
+      "Taille_min_mots": 1,
+      "Taille_max_mots": 13,
+      "Taille_moy_mots": 3.6319334389857367,
+      "NB_phrs": 235,
+      "Taille_min_phrs": 1,
+      "Taille_max_phrs": 31,
+      "Taille_moy_phrs": 10.740425531914894
+    },
+    "literature"
+  ]
+}
